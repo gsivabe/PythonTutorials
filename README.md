@@ -1,2 +1,2 @@
 # PythonTutorials
-This will have learning files of Pythin
+This will have learning files of Python
