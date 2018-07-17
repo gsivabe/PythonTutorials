@@ -23,3 +23,4 @@ name    = "John"       # A string
 print counter
 print miles
 print name
+print ("Check for commit")
