@@ -23,4 +23,4 @@ name    = "John"       # A string
 print counter
 print miles
 print name
-print ("Check for commit1")
+print ("Check for commit from First Branch")
