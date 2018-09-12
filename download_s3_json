@@ -1,0 +1,15 @@
+{
+    "dev_baseurl": "https://corex-dev.awsdsi.ghx.com/rest/darint/dashboard/events/",
+    "stg_baseurl": "https://corex-stg.awsdsi.ghx.com/rest/darint/dashboard/events/",	
+    "access_key": "AKIAI6LKXIAKJHGLHN5A",
+    "secret_key": "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",
+    "certificate_path": "F://ES/certificates/ghxca_dev.crt",
+    "username": "ssotpmuser",
+    "password": "ssotpm123",
+    "bucket_name1": "ghx-darint",
+	"bucket_name": "ghx-faxconversion-poc",
+    "s3_path": "test_repo/STG/",
+	"s3_path1": "PDFsplit1/",
+    "excelpath": "F:\\darint\\dev\\DARINT_Performance_Result_Test.xlsx",
+    "s3_download_local_path": "F:\\darint\\s3"
+}
